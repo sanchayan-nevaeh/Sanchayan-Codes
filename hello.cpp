@@ -7,7 +7,7 @@ using namespace std;
     cout<<e1.get_name()<<endl;
     cout<<e1.get_salary()<<endl;
     cout<<e1.get_employeeid()<<endl;
-    cout<<"Hello Mehir and Sanchayan Welcome to Nevaeh Technology";
+    cout<<"Hello Mehir, Sanchayan, Niraj ! Welcome to Nevaeh Technology";
  }
 
  Nevaeh_Employees::Nevaeh_Employees(string name,int employeeid,double salary){
